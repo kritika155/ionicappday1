@@ -9,10 +9,21 @@ ion-title{
   padding: 0;
 }
 .welcome-card{
-  height: 270px;
+  height: 490px;
   font-size: 30px;
 }
-.slide{
-  width: 150px;
-  height: 50px;
+#slide{
+  width:300px;
+  height: 200px;
+  position:absolute;
+  top:300px;
+  margin-left: 15px;
+ 
+}
+a{
+  margin: auto auto;
+  text-align: center;
+}
+body{
+  background-color: aqua;
 }
