@@ -1,8 +1,9 @@
 .welcome-card ion-img {
-  height: 70px;
+  height: 90px;
   overflow: hidden;
   margin: 0;
   font-size: 30px;
+ 
 }
 ion-title{
   margin: 0;
@@ -29,4 +30,20 @@ a{
 
 .welcome-card ion-card-title{
   text-align: center;
+}
+.welcom-card ion-card-subtitle{
+  text-align: center;
+}
+
+ion-card{
+  background-color: azure;
+}
+ion-title{
+  background-color: aquamarine;
+}
+:root {
+  --primary-color: orange;
+}
+ion-footer{
+  background-color: aqua;
 }
